@@ -1,0 +1,10 @@
+title       = "pdd"
+baseURL     = "https://pinduoduo-cli.tamnd.com/"
+description = "Pinduoduo group-buying e-commerce CLI"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/pinduoduo-cli"
